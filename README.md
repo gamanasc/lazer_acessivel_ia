@@ -1,7 +1,7 @@
 # Lazer Acessível
 Aplicação para capacitar pessoas com deficiência a explorarem sua cidade com tranquilidade, encontrando locais acessíveis e adaptados às suas necessidades.
 
-## Tecnologias utilizada
+## Tecnologias utilizadas
 
 - SDK Google Generativa AI.
 - Python através do Google Colab.
