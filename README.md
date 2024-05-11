@@ -3,7 +3,7 @@ Aplicação para capacitar pessoas com deficiência a explorarem sua cidade com 
 
 ## Tecnologias utilizadas
 
-- SDK Google Generativa AI.
+- SDK Google Generative AI.
 - Python através do Google Colab.
 
 ## Funcionalidades
